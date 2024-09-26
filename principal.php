@@ -46,12 +46,14 @@
     <div class="row">
         <div class="col-md-3 menu">
             <ul class="menu">
-                    <li><a href="./principal.html" class="menu-item"><i class="fa-regular fa-circle-user"></i> Usuario </a></li>
-                    <li><a href="./cidade.html" class="menu-item"><i class="fa-solid fa-city"></i> Cidade </a></li>
-                    <li><a href="./cliente.html" class="menu-item"><i class="fa-solid fa-chalkboard-user"></i> Cliente </a></li>
-                    <li><a href="./funcionario.html" class="menu-item"><i class="fa-solid fa-user-tie"></i> Funcionario </a></li>
-                    <li><a href=./produto.html" class="menu-item"><i class="fa-solid fa-boxes-stacked"></i> produto </a></li>
-                    <li><a href="./venda.html" class="menu-item"><i class="fa-solid fa-store"></i> Venda </a></li>
+                    <li><a href="./principal.php" class="menu-item"><i class="fa-regular fa-circle-user"></i> Usuario </a></li>
+                    <li><a href="./cidade.php" class="menu-item"><i class="fa-solid fa-city"></i> Cidade </a></li>
+                    <li><a href="./cliente.php" class="menu-item"><i class="fa-solid fa-chalkboard-user"></i> Cliente </a></li>
+                    <li><a href="./funcionario.php" class="menu-item"><i class="fa-solid fa-user-tie"></i> Funcionario </a></li>
+                    <li><a href=./produto.php" class="menu-item"><i class="fa-solid fa-boxes-stacked"></i> produto </a></li>
+                    <li><a href="./venda.php" class="menu-item"><i class="fa-solid fa-store"></i> Venda </a></li>
+                    <li><a href="./index.php" class="menu-item"><i class="fa-solid fa-person-running"></i> Fechar </a></li>
+                    
             </ul>
         </div>
         <div class="col-md-9">

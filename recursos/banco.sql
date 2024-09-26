@@ -1,0 +1,15 @@
+CREATE TABLE USUARIO(
+ID INT PRIMARY KEY NOT NULL AUTO_INCREMENT, 
+NOME VARCHAR(45),
+CPF VARCHAR(15),
+SENHA VARCHAR(45) 
+
+); 
+
+
+
+
+
+INSERT INTO usuario(NOME,CPF,SENHA) VALUES
+('THOMAS SILVA', '123.123.123-14', '2222'),                 
+('MISTERMINA', '321.321.321-22', '2323');                                                   
